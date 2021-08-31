@@ -58,3 +58,6 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+Thumbs.db
+[Unity Directory]/Library/
+[Unity Directory]/Temp/
