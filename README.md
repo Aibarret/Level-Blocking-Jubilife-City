@@ -1,2 +1,2 @@
-# Level-Blocking-Jubilife-City
-An exercise in level blocking a city from Pokemon Platinum
+# Level-Blocking-Pokemon-League
+An exercise in level blocking an area from Pokemon
